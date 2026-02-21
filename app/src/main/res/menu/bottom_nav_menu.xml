@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_discover"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/discover" />
+    <item
+        android:id="@+id/nav_cookbook"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/cookbook" />
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/account" />
+</menu>
